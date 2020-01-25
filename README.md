@@ -15,6 +15,6 @@ You'll need the following;
 
 # Note:
     - interactive-maps-3 scrapes the most mentioned locations in local blogs to determine popularity.
-    - Thus, you must scraped names of locations mentioned in blogs and place them in a .csv file.
-    - I suggest scraping multiple local blogs for more accurate data.
+    - Thus, you must scrape names of locations mentioned in blogs and place them in a .csv file.
+    - I suggest scraping multiple local blogs for accurate data.
     
