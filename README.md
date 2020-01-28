@@ -14,7 +14,7 @@ You'll need the following;
     - Import pandas and plotly.
 
 # Note:
-    - interactive-maps-3 scrapes the most mentioned locations in local blogs to determine popularity.
+    - interactive-maps-4 scrapes the most mentioned locations in local blogs to determine popularity.
     - Thus, you must scrape names of locations mentioned in blogs and place them in a .csv file.
     - I suggest scraping multiple local blogs for accurate data.
     
